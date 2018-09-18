@@ -1,0 +1,8 @@
+name "Change Visiblity"
+version 1.0
+
+copy "Change_Visiblity.mcr" to "$userMacros"
+drop Change_Visiblity.mcr
+run Change_Visiblity.mcr
+
+clear temp
